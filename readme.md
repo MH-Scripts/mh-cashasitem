@@ -62,6 +62,9 @@
 ![alttext](https://github.com/MH-Scripts/mh-cashasitem/blob/main/image/black_money.png?raw=true)
 ![alttext](https://github.com/MH-Scripts/mh-cashasitem/blob/main/image/crypto.png?raw=true)
 
+# Special Thanks
+- @iplocator, for help resolving the duplication of the items.
+
 # LICENSE
 [GPL LICENSE](./LICENSE)<br />
 &copy; [MaDHouSe79](https://www.youtube.com/@MaDHouSe79)
