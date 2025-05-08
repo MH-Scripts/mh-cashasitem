@@ -25,16 +25,10 @@
 # My Youtube Channel and Discord
 - [Subscribe](https://www.youtube.com/@MaDHouSe79) 
 
-## Read The README.md!!! 
-![foto1](https://naskho.org/images/ReadPlease.gif)
-
 # mh-cashasitem
 - Before you start, `BACKUP` your `resources` folder cause when something is wrong you have a backup.
 - This is the best cash/blackmoney/crypto item script for your qbcore server.
 - The `cash`, `black_money`, `crypto` is not dependent on the item amount, but the item amount is dependent on the currency amount.
-
-# NOTE you need coding experience.
-- This is not just a plug and play script, you need some coding experience to install this script.
 
 # Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core) (1.2.6)
@@ -45,15 +39,16 @@
 - [mh-blackmarket](https://github.com/MaDHouSe79/mh-blackmarket)
 - [mh-moneywash](https://github.com/MaDHouSe79/mh-moneywash)
 
+## Read The README files 
+![foto1](https://naskho.org/images/ReadPlease.gif)
+
+# NOTE you need coding experience.
+- This is not just a plug and play script, you need some coding experience to install this script.
+
 # Install
 - Step 1 Read: [QB-Core](https://github.com/MH-Scripts/mh-cashasitem/blob/main/readme/qb-core.md) (1.2.6)
 - Step 2 Read: [QB-Inventory](https://github.com/MH-Scripts/mh-cashasitem/blob/main/readme/qb_inventory.md) (2.0.0)
 - Step 3 Make sure you read the readme files for install, and only when you are done you can restart the server.
-
-# If it's all too difficult for you to install
-- I have a `qb-inventory 2.0.0` edit by my here [link](https://github.com/MaDHouSe79/qb-inventory)
-- Cash as item is already includes, you don't need `mh-cashasitem` for this `qb-inventory`.
-- You also need to read the readme in `qb-inventory` for installing.
 
 # Video
 [Youtube](https://www.youtube.com/watch?v=sWYkV-PeqU4)
