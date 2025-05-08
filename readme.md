@@ -25,6 +25,9 @@
 # My Youtube Channel and Discord
 - [Subscribe](https://www.youtube.com/@MaDHouSe79) 
 
+## Read The README.md!!! 
+![foto1](https://naskho.org/images/ReadPlease.gif)
+
 # mh-cashasitem
 - Before you start, `BACKUP` your `resources` folder cause when something is wrong you have a backup.
 - This is the best cash/blackmoney/crypto item script for your qbcore server.
